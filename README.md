@@ -1,4 +1,4 @@
-# verilog-seq-fulladder-modular-tb
+# seq-fulladder-modular-tb
 This repo has the RTL code for a full adder implemented implemented sequentially using two half adders and an or gate. To go along with it, is a modular self-checking SystemVerilog testbench implemented with a generator, driver, monitor, and scoreboard.
 
 This mini-project is what I used to learn SystemVerilog, and particularly how to deal with classes in SystemVerilog - so if you're looking for something grand, you're out of luck. If you're looking for a reference to learn SystemVerilog testbench design though, I can help with that!
